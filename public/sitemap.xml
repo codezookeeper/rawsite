@@ -3,26 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://code-zoo.com/</loc>
+    <loc>codezookeeper.github.io/exhibits/method/simplicity/breaking-up/</loc>
+    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>codezookeeper.github.io/tags/c-sharp/</loc>
+    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>codezookeeper.github.io/</loc>
+    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>codezookeeper.github.io/exhibits/</loc>
+    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>codezookeeper.github.io/tags/</loc>
+    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>codezookeeper.github.io/exhibits/method/simplicity/bool-smell/</loc>
+    <lastmod>2020-09-12T20:06:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</loc>
     <lastmod>2020-09-12T01:45:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code-zoo.com/exhibits/</loc>
+    <loc>codezookeeper.github.io/tags/unit-tests/</loc>
     <lastmod>2020-09-12T01:45:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code-zoo.com/exhibits/parameter-checking/</loc>
+    <loc>codezookeeper.github.io/tags/unit-tests-behavior/</loc>
     <lastmod>2020-09-12T01:45:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code-zoo.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://code-zoo.com/tags/</loc>
+    <loc>codezookeeper.github.io/categories/</loc>
   </url>
   
 </urlset>

@@ -2,13 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Code-Zoo</title>
-    <link>http://code-zoo.com/tags/</link>
+    <link>codezookeeper.github.io/tags/</link>
     <description>Recent content in Tags on Code-Zoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2020 19:04:19 -0400</lastBuildDate>
     
-	<atom:link href="http://code-zoo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="codezookeeper.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C-sharp</title>
+      <link>codezookeeper.github.io/tags/c-sharp/</link>
+      <pubDate>Wed, 16 Sep 2020 19:04:19 -0400</pubDate>
+      
+      <guid>codezookeeper.github.io/tags/c-sharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Tests</title>
+      <link>codezookeeper.github.io/tags/unit-tests/</link>
+      <pubDate>Sat, 12 Sep 2020 01:45:38 -0400</pubDate>
+      
+      <guid>codezookeeper.github.io/tags/unit-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Tests - Behavior</title>
+      <link>codezookeeper.github.io/tags/unit-tests-behavior/</link>
+      <pubDate>Sat, 12 Sep 2020 01:45:38 -0400</pubDate>
+      
+      <guid>codezookeeper.github.io/tags/unit-tests-behavior/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

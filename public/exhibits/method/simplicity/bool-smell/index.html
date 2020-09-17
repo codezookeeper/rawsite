@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html
+  lang="en-us"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  <head>
+    <meta charset="utf-8" />
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="codezookeeper.github.io/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="codezookeeper.github.io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="codezookeeper.github.io/favicon-16x16.png">
+<link rel="manifest" href="codezookeeper.github.io/site.webmanifest">
+<link rel="mask-icon" href="codezookeeper.github.io/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+
+<meta name="keywords" content="C-sharp,
+">
+
+<meta property="og:title" content="Boolean Literal Smell" />
+<meta property="og:description" content="Booleanus Smellicus - pictured here: &lsquo;true&rsquo; and &lsquo;false&rsquo;
+  Classification  Class: [Method]
+Order: [Simplicity]
+Family: [Conditional]
+Genus: [Booleanus]
+Species: [Smellicus]
+ Related &ldquo;Python version&rdquo;[]
+&ldquo;Typescript version&rdquo;[]
+Wild sample Code file
+public static bool NeedsToBeUpdated(Article article) { var needsUpdate = false; if (article.PublishDate &lt; DateTime.Now.AddDays(-100) &amp;&amp; article.CurrentEvent) { needsUpdate = true; } return needsUpdate; } Wild observations Many times in the wild you can find someone using an if statement to check a condition and then set a boolean." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="codezookeeper.github.io/exhibits/method/simplicity/bool-smell/" />
+<meta property="article:published_time" content="2020-09-12T20:06:38-04:00" />
+<meta property="article:modified_time" content="2020-09-12T20:06:38-04:00" />
+
+<meta property="og:site_name" content="Code-Zoo" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Boolean Literal Smell"/>
+<meta name="twitter:description" content="Booleanus Smellicus - pictured here: &lsquo;true&rsquo; and &lsquo;false&rsquo;
+  Classification  Class: [Method]
+Order: [Simplicity]
+Family: [Conditional]
+Genus: [Booleanus]
+Species: [Smellicus]
+ Related &ldquo;Python version&rdquo;[]
+&ldquo;Typescript version&rdquo;[]
+Wild sample Code file
+public static bool NeedsToBeUpdated(Article article) { var needsUpdate = false; if (article.PublishDate &lt; DateTime.Now.AddDays(-100) &amp;&amp; article.CurrentEvent) { needsUpdate = true; } return needsUpdate; } Wild observations Many times in the wild you can find someone using an if statement to check a condition and then set a boolean."/>
+
+
+<meta itemprop="name" content="Boolean Literal Smell">
+<meta itemprop="description" content="Booleanus Smellicus - pictured here: &lsquo;true&rsquo; and &lsquo;false&rsquo;
+  Classification  Class: [Method]
+Order: [Simplicity]
+Family: [Conditional]
+Genus: [Booleanus]
+Species: [Smellicus]
+ Related &ldquo;Python version&rdquo;[]
+&ldquo;Typescript version&rdquo;[]
+Wild sample Code file
+public static bool NeedsToBeUpdated(Article article) { var needsUpdate = false; if (article.PublishDate &lt; DateTime.Now.AddDays(-100) &amp;&amp; article.CurrentEvent) { needsUpdate = true; } return needsUpdate; } Wild observations Many times in the wild you can find someone using an if statement to check a condition and then set a boolean.">
+<meta itemprop="datePublished" content="2020-09-12T20:06:38-04:00" />
+<meta itemprop="dateModified" content="2020-09-12T20:06:38-04:00" />
+<meta itemprop="wordCount" content="203">
+
+
+
+<meta itemprop="keywords" content="C-sharp," />
+
+
+
+    <title>Boolean Literal Smell || Code-Zoo</title>
+    <link rel="canonical" href="codezookeeper.github.io/exhibits/method/simplicity/bool-smell/" />
+
+    
+
+    <link rel="stylesheet" href="/codezookeeper.github.io/css/reboot.css" />
+<link rel="stylesheet" href="/codezookeeper.github.io/css/style.css" />
+<link rel="stylesheet" href="/codezookeeper.github.io/css/syntax.css" />
+
+
+
+<script type="text/javascript" src="/codezookeeper.github.io/js/main.js" defer></script>
+
+<link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+  <body
+  class=" look-sheet-bkg"
+  lang="en-us">
+  <div class="nav-bkg">
+    <nav class="content-container pagewide-bar-padding">
+      <span class="divider">/ </span>
+      <a href="codezookeeper.github.io" >Code-Zoo</a>
+      <span class="divider">/ </span>
+  <a href="codezookeeper.github.ioexhibits">Exhibits</a>
+      <ul class="list-unstyled right-links">
+
+          <li>
+            <a href="/codezookeeper.github.io/about/">
+              <span class="post-title">about</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="/codezookeeper.github.io/contact/">
+              <span class="post-title">contact</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="/codezookeeper.github.io/posts/index.xml">
+              <span class="post-title">rss</span>
+            </a>
+          </li>
+
+</ul>
+
+    </nav>
+  </div>
+  <article
+    id="main"
+    class="content-container look-sheet article-pad-v "
+    itemscope
+    itemtype="https://schema.org/Article" >
+  <meta itemprop="author" content="" />
+  <meta itemprop="publisher" content="" />
+  <meta itemprop="image" content="" />
+  <h1 itemprop="name" id="title">Boolean Literal Smell</h1>
+  <meta itemprop="headline" content="Boolean Literal Smell" />
+  
+  <div class="post-tags">
+  
+    <a href="codezookeeper.github.io/tags/c-sharp/">#C-sharp</a>&nbsp;
+  
+  </div>
+  
+  
+    
+      <div class="post-date"><span itemprop="datePublished">September 12, 2020</span></div>
+      <meta itemprop="dateModified" content="September 12, 2020"/>
+    
+  
+  
+  <div itemprop="articleBody" id="content" class="article-body margin-top-2em">
+    <figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Striped_Skunk.jpg"
+         alt="Booleanus Smellicus - pictured here: &amp;lsquo;true&amp;rsquo; and &amp;lsquo;false&amp;rsquo;"/> <figcaption>
+            <p>Booleanus Smellicus - pictured here: &lsquo;true&rsquo; and &lsquo;false&rsquo;</p>
+        </figcaption>
+</figure>
+
+<h2 id="classification">Classification</h2>
+<blockquote>
+<p>Class: [Method]<br>
+Order: [Simplicity]<br>
+Family: [Conditional]<br>
+Genus: [Booleanus]<br>
+Species: [Smellicus]</p>
+</blockquote>
+<h2 id="related">Related</h2>
+<p>&ldquo;Python version&rdquo;[]<br>
+&ldquo;Typescript version&rdquo;[]</p>
+<h2 id="wild-sample">Wild sample</h2>
+<p>Code file</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-c#" data-lang="c#"><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">bool</span> NeedsToBeUpdated(Article article)
+{
+	<span style="color:#66d9ef">var</span> needsUpdate = <span style="color:#66d9ef">false</span>;
+
+	<span style="color:#66d9ef">if</span> (article.PublishDate &lt; DateTime.Now.AddDays(-<span style="color:#ae81ff">100</span>) &amp;&amp; article.CurrentEvent)
+	{
+		needsUpdate = <span style="color:#66d9ef">true</span>;
+	}
+
+	<span style="color:#66d9ef">return</span> needsUpdate;
+}
+</code></pre></div><h2 id="wild-observations">Wild observations</h2>
+<p>Many times in the wild you can find someone using an <code>if</code> statement to check a condition and then set a boolean. It doesn&rsquo;t matter if the boolean is set to <code>true</code> or <code>false</code>, this is a code smell. The condition itself is the answer to the question and makes for a much more expressive statement.</p>
+<p>If the code appears like above but with <code>true</code> and <code>false</code> switched, the if condition can be inverted with a logical not.</p>
+<p>If the logic appears complicated and still uses <code>true</code> and <code>false</code>, look for a way to express pieces of the expression as a truth table<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+<h2 id="tamed-code">Tamed code</h2>
+<p>Unit test</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-c#" data-lang="c#"><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">bool</span> NeedsToBeUpdated(Article article) =&gt;
+	article.PublishDate &lt; DateTime.Now.AddDays(-<span style="color:#ae81ff">100</span>) 
+	&amp;&amp; article.CurrentEvent;
+</code></pre></div><h2 id="domesticated-observations">Domesticated observations</h2>
+<p>When the code is reduced to the condition, the logic is much clearer and reusability becomes more apparent<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</p>
+<h2 id="related-exhibits">Related exhibits</h2>
+<p>[something]<br>
+[something else]</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>see [truth-table] <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>see [DRY-is-an-API] <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+  </div>
+</article>
+
+  
+
+
+  
+    <div class="nav-bkg-50 content-container-narrow-pad bottom-links text-0p75">
+      <nav class="flex-row">
+      
+      <a href="codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/" class="flex-row v-center no-underline"  style="max-width:45%;">
+        <span class="text-1p5">←</span>&nbsp;<span class="re-underline">Previous: Test multiple paramters one at a time</span>
+      </a>
+      
+      
+        <a href="codezookeeper.github.io/exhibits/method/simplicity/breaking-up/" class="flex-row v-center no-underline" style="max-width: 45%;">
+        <span class="re-underline">Next: Breaking Up</span>&nbsp;<span class="text-1p5">→</span>
+        </a>
+      
+      </nav>
+    </div>
+  
+
+  </body>
+</html>

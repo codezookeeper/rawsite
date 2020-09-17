@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exhibits on Code-Zoo</title>
-    <link>codezookeeper.github.io/exhibits/</link>
-    <description>Recent content in Exhibits on Code-Zoo</description>
+    <title>C-sharp on Code-Zoo</title>
+    <link>codezookeeper.github.io/tags/c-sharp/</link>
+    <description>Recent content in C-sharp on Code-Zoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Sep 2020 19:04:19 -0400</lastBuildDate>
     
-	<atom:link href="codezookeeper.github.io/exhibits/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="codezookeeper.github.io/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
