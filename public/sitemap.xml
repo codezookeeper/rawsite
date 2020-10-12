@@ -3,52 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>codezookeeper.github.io/exhibits/method/simplicity/breaking-up/</loc>
+    <loc>http://code-zoo.com/tags/c-sharp/</loc>
+    <lastmod>2020-09-28T10:59:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://code-zoo.com/</loc>
+    <lastmod>2020-09-28T10:59:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://code-zoo.com/exhibits/</loc>
+    <lastmod>2020-09-28T10:59:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://code-zoo.com/exhibits/outcomes/</loc>
+    <lastmod>2020-09-28T10:59:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://code-zoo.com/tags/</loc>
+    <lastmod>2020-09-28T10:59:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://code-zoo.com/exhibits/method/simplicity/breaking-up/</loc>
     <lastmod>2020-09-16T19:04:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>codezookeeper.github.io/tags/c-sharp/</loc>
-    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>codezookeeper.github.io/</loc>
-    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>codezookeeper.github.io/exhibits/</loc>
-    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>codezookeeper.github.io/tags/</loc>
-    <lastmod>2020-09-16T19:04:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>codezookeeper.github.io/exhibits/method/simplicity/bool-smell/</loc>
+    <loc>http://code-zoo.com/exhibits/method/simplicity/bool-smell/</loc>
     <lastmod>2020-09-12T20:06:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</loc>
+    <loc>http://code-zoo.com/exhibits/unittests/behavior/parameter-checking/</loc>
     <lastmod>2020-09-12T01:45:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>codezookeeper.github.io/tags/unit-tests/</loc>
+    <loc>http://code-zoo.com/tags/unit-tests/</loc>
     <lastmod>2020-09-12T01:45:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>codezookeeper.github.io/tags/unit-tests-behavior/</loc>
+    <loc>http://code-zoo.com/tags/unit-tests-behavior/</loc>
     <lastmod>2020-09-12T01:45:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>codezookeeper.github.io/categories/</loc>
+    <loc>http://code-zoo.com/categories/</loc>
   </url>
   
 </urlset>
