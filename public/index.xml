@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code-Zoo</title>
-    <link>codezookeeper.github.io/</link>
+    <link>http://code-zoo.com/</link>
     <description>Recent content on Code-Zoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 19:04:19 -0400</lastBuildDate>
-    
-	<atom:link href="codezookeeper.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 28 Sep 2020 10:59:31 -0400</lastBuildDate><atom:link href="http://code-zoo.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outcomes</title>
+      <link>http://code-zoo.com/exhibits/outcomes/</link>
+      <pubDate>Mon, 28 Sep 2020 10:59:31 -0400</pubDate>
+      
+      <guid>http://code-zoo.com/exhibits/outcomes/</guid>
+      <description>Classification  Class: []
+Order: []
+Family: []
+Genus: []
+Species: []
+ Related &amp;ldquo;Python version&amp;rdquo;[]
+&amp;ldquo;Typescript version&amp;rdquo;[]
+Wild sample Code file
+Unit test
+Wild observations Tamed code Unit test
+Domesticated observations Related exhibits [something]
+[something else]</description>
+    </item>
     
     <item>
       <title>Breaking Up</title>
-      <link>codezookeeper.github.io/exhibits/method/simplicity/breaking-up/</link>
+      <link>http://code-zoo.com/exhibits/method/simplicity/breaking-up/</link>
       <pubDate>Wed, 16 Sep 2020 19:04:19 -0400</pubDate>
       
-      <guid>codezookeeper.github.io/exhibits/method/simplicity/breaking-up/</guid>
+      <guid>http://code-zoo.com/exhibits/method/simplicity/breaking-up/</guid>
       <description>Oversized method breaking into smaller pieces
   Classification  Class: Method
 Order: Simplicity
@@ -31,10 +47,10 @@ Wild sample Code file
     
     <item>
       <title>Boolean Literal Smell</title>
-      <link>codezookeeper.github.io/exhibits/method/simplicity/bool-smell/</link>
+      <link>http://code-zoo.com/exhibits/method/simplicity/bool-smell/</link>
       <pubDate>Sat, 12 Sep 2020 20:06:38 -0400</pubDate>
       
-      <guid>codezookeeper.github.io/exhibits/method/simplicity/bool-smell/</guid>
+      <guid>http://code-zoo.com/exhibits/method/simplicity/bool-smell/</guid>
       <description>Booleanus Smellicus - pictured here: &amp;lsquo;true&amp;rsquo; and &amp;lsquo;false&amp;rsquo;
   Classification  Class: [Method]
 Order: [Simplicity]
@@ -49,10 +65,10 @@ public static bool NeedsToBeUpdated(Article article) { var needsUpdate = false; 
     
     <item>
       <title>Test multiple paramters one at a time</title>
-      <link>codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</link>
+      <link>http://code-zoo.com/exhibits/unittests/behavior/parameter-checking/</link>
       <pubDate>Sat, 12 Sep 2020 01:45:38 -0400</pubDate>
       
-      <guid>codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</guid>
+      <guid>http://code-zoo.com/exhibits/unittests/behavior/parameter-checking/</guid>
       <description>Parametercheckus Oneatatimeus
   Classification  Class: [Unit test]
 Order: [Behavior]
